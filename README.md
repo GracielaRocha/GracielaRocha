@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <div align="left">
 <a href="https://www.linkedin.com/in/gracielasr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="contato linkedin" height="30" width="40" /></a>
-<a href = "gracielasr694@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "gracielasr694@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" target="_blank"></a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
